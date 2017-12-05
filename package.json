@@ -1,0 +1,11 @@
+{
+  "name": "demoapirest",
+  "version": "1.0.0",
+  "description": "demo api rest nodejs",
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "express": "^4.16.2",
+    "method-override": "^2.1.2",
+    "mongoose": "~3.6.11"
+  }
+}
